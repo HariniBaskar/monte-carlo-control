@@ -1,8 +1,8 @@
-## NAME: HARINI B.
-## REGISTER NUMBER: 212221230035
-## DEPARTMENT: ARTIFCIAL INTELLIGENCE AND DATA SCIENCE
+#                                                                                    MONTE CARLO CONTROL ALGORITHM
 
-# MONTE CARLO CONTROL ALGORITHM
+### NAME: HARINI B.
+### REGISTER NUMBER: 212221230035
+### DEPARTMENT: ARTIFCIAL INTELLIGENCE AND DATA SCIENCE
 
 ## AIM:
 To develop a Python program to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
